@@ -2,6 +2,11 @@
 
 A simple, user-friendly web application that converts currencies in real-time using live exchange rates.
 
+## 🌐 Live Preview
+
+**Try it now:** [Currency Converter Live Demo](https://anand-sahnix.github.io/Currency-Converter/)
+
+
 ## Features
 
 - **Real-time Conversion**: Get up-to-date currency exchange rates
