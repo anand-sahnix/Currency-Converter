@@ -5,6 +5,7 @@ A simple, user-friendly web application that converts currencies in real-time us
 ## 🌐 Live Preview
 
 **Try it now:** [Currency Converter Live Demo](https://anand-sahnix.github.io/Currency-Converter/)
+**Netlify**  https://xefixer.netlify.app/
 
 
 ## Features
